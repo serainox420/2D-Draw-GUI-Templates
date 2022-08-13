@@ -36,6 +36,7 @@ User Friendly Interfaces - [WORK IN PROGRESS]
 
 [Official JSM Discord Server] - https://discord.gg/7TgtmKKahp
 
+# Enjoying JsMacros? Consider Staring it on GitHub <3
 
 **======================================================**
 
