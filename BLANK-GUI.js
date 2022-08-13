@@ -173,7 +173,7 @@ s.addText(" SPECIAL / MISC / XXX?", x+7, y+6, color2, true);
 s.addText(" SPECIAL / MISC / XXX?|", x+8, y+5, 0xFF00, true); 
 const redirect = () => JsMacros.runScript("redirected.js");
 const execute = () => JsMacros.runScript("execute.js");
-const draw = () => Chat.log("LOL, too lazy to implement...");
+const draw = () => JsMacros.runScript("DRAW.js");
 s.addButton(x+5, y+15, 55, 15, "REDIRECT", JavaWrapper.methodToJava(redirect));
 s.addButton(x+60, y+15, 50, 15, "EXECUTE", JavaWrapper.methodToJava(execute));
 s.addButton(x+110, y+15, 30, 15, "DRAW", JavaWrapper.methodToJava(draw));
