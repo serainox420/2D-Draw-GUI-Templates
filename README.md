@@ -1,7 +1,9 @@
 # Blank-GUI-Docs
 Documentation &amp; Links for Blank GUI 4 JSM
 
+Localization: [.minecraft/config/JsMacros/Macros]
 
+[Getting Started with JsMacros MOD] - https://jsmacros.wagyourtail.xyz/?/tutorial.html
 
 
 
@@ -24,5 +26,9 @@ Documentation &amp; Links for Blank GUI 4 JSM
 [Silver's LinkTree] - https://linktr.ee/silverainox
 
 [Contact me on Discord] - Silverainox#9452
+
+**======================================================**
+
+[Command Craft Discord Server] - https://discord.gg/QG7KmrjU7f
 
 **======================================================**
