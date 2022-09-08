@@ -4,6 +4,8 @@ Documentation &amp; Links for Blank GUI 4 JSM
 
 User Friendly Interfaces - [WORK IN PROGRESS]
 
+**NEW! PLAYER-GUI.js [Customizable Panel V2]** 
+
 **======================================================**
 
 ![image](https://user-images.githubusercontent.com/95081005/184498852-aabbf028-933c-4ce5-8335-56f05a383972.png)
