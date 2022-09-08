@@ -1,6 +1,6 @@
 **======================================================**
 # Blank-GUI-Docs
-Documentation &amp; Links for Blank GUI 4 JSM
+2D Draw templates for JsMacros
 
 User Friendly Interfaces - [WORK IN PROGRESS]
 
