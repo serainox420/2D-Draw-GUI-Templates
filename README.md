@@ -1,5 +1,5 @@
 **======================================================**
-# Blank-GUI-Docs
+# 2D Draw Blank Panel
 2D Draw templates for JsMacros
 
 User Friendly Interfaces - [WORK IN PROGRESS]
