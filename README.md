@@ -4,12 +4,15 @@
 
 User Friendly Interfaces - [WORK IN PROGRESS]
 
-**NEW! PLAYER-GUI.js [Customizable Panel V2]** 
+## **NEW! PLAYER-GUI.js [Customizable Panel V2]** 
+## *NEW! EMOTET2.js [Emote Panel v2]** 
+
 
 **======================================================**
 
+![image](https://i.imgur.com/jdNPBbi.png)
 ![image](https://user-images.githubusercontent.com/95081005/184498852-aabbf028-933c-4ce5-8335-56f05a383972.png)
-![image](https://user-images.githubusercontent.com/95081005/184498839-bdc13d24-d9ea-41ec-bf72-61ae647f5b60.png)
+![image](https://user-images.githubusercontent.com/95081005/184498839-bdc13d24-d9ea-41ec-bf72-61ae647f5b60.png) 
 ![image](https://user-images.githubusercontent.com/95081005/184498824-82f82ad0-e379-4d2f-ba39-e10de90db0b4.png)
 
 **======================================================**
